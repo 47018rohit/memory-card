@@ -52,10 +52,10 @@ export default function Game() {
   return (
     <div className='flex-col'>
       <ScoreBoard score={score} bestScore={bestScore} />
-      <div className="container w-11/12 min-w-min border-2 border-black rounded-lg h-full ">
-        <div className=' grid grid-cols-4 gap-8 box-border p-8'>
+      <div className="container w-11/12 min-w-min border-2 border-orange-300 rounded-lg h-full backdrop-blur bg-white/10 ">
+        <div className=' grid grid-cols-6 gap-8 box-border p-8'>
           {cardArray.map((element, index) => {
-            return <div className='card-container cursor-pointer h-fit flex-col' key={index} onClick={handleClick} >
+            return <div className='card-container cursor-pointer h-fit px-3 flex-col justify-center' key={index} onClick={handleClick} >
               <CardDetails photo={element.image} name={element.name} />
             </div>
           })}
