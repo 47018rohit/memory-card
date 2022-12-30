@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.81788353.css",
+    "main.js": "/memory-card/static/js/main.a5ce5d4e.js",
+    "static/js/787.d6a8b40f.chunk.js": "/memory-card/static/js/787.d6a8b40f.chunk.js",
+    "static/media/chibi-hinata.png": "/memory-card/static/media/chibi-hinata.a0acfe2baa36f9904f3d.png",
+    "static/media/chibi-naruto.png": "/memory-card/static/media/chibi-naruto.e47ec63dbedde03cd28d.png",
+    "static/media/chibi-itachi.png": "/memory-card/static/media/chibi-itachi.afc4422316300e7be377.png",
+    "static/media/chibi-tsunade.png": "/memory-card/static/media/chibi-tsunade.24e4fcc312a4493e17f5.png",
+    "static/media/chibi-kakashi.png": "/memory-card/static/media/chibi-kakashi.62aec2541fb64754760f.png",
+    "static/media/chibi-pain.png": "/memory-card/static/media/chibi-pain.4dfb7089fd4badd62bf3.png",
+    "static/media/chibi-jiraya.png": "/memory-card/static/media/chibi-jiraya.abc19d4b69dd9ebd71d9.png",
+    "static/media/chibi-tenten.png": "/memory-card/static/media/chibi-tenten.35d96f4c2ef118ba16ea.png",
+    "static/media/chibi-shikamaru.png": "/memory-card/static/media/chibi-shikamaru.c81c976c9080e1546361.png",
+    "static/media/chibi-neji.png": "/memory-card/static/media/chibi-neji.761126fd7cdf2e5d6992.png",
+    "static/media/chibi-minato.png": "/memory-card/static/media/chibi-minato.3e0fc03530c02500650d.png",
+    "static/media/chibi-sasuke.png": "/memory-card/static/media/chibi-sasuke.54d35b2eb4bb515a03f0.png",
+    "index.html": "/memory-card/index.html",
+    "main.81788353.css.map": "/memory-card/static/css/main.81788353.css.map",
+    "main.a5ce5d4e.js.map": "/memory-card/static/js/main.a5ce5d4e.js.map",
+    "787.d6a8b40f.chunk.js.map": "/memory-card/static/js/787.d6a8b40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81788353.css",
+    "static/js/main.a5ce5d4e.js"
+  ]
+}
